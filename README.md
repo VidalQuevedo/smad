@@ -1,4 +1,4 @@
-smad
+SMAD
 ====
 
-SMAD related stuff
+Social Media and Democracy research.
