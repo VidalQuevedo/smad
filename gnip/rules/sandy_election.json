@@ -1,0 +1,26 @@
+// First Set of Downloads - Sandy/Election
+{
+  "rules":
+  [
+    {
+    	"tag":"Sandy/Election - terms TOP (contains:)",
+    	"value":"hurricane OR sandy OR superstorm OR 'super storm' OR 'superOR frankenstorm OR fema OR 'red cross' OR #hurricanesandy OR #storm OR #sandyhelp OR redcross OR barack OR obama OR mitt OR romney OR election OR vote OR president OR #election2012 OR #obama2012 OR #voteobama OR #teamobama OR #romney2012 OR #voteromney OR #teamromney"
+    },
+    {
+    	"tag":"Sandy/Election - users TOP - tweets (from:)",
+    	"value": "from:breakingnews OR from:bbcbreaking OR from:cnnbrk OR from:wsjbreakingnews OR from:reuterslive OR from:cbstopnews OR from:ajelive OR from:skynewsbreak OR from:abcnewslive OR from:twcbreaking OR from:nytimes OR from:usatoday OR  ORfrom:cnn OR from:foxnews from:weatherchannel OR from:fema OR from:femaregion1 OR from:femaregion2 OR from:femaregion3 OR from:NOAA OR from:NYGovCuomo OR from:mikebloomberg OR from:nycmayorsoffice OR from:GovChristie OR from:CityofNewarkNJ OR from:CoryBooker OR from:MayorAC OR from:redcrossny OR from:RedCrossNorthNJ OR  from:Response_NNJ OR from:CNJRedCross OR from:RedCross OR from:NYPDnews OR from:NY_Police OR from:FDNY OR from:MTA OR from:NewarkNJPolice OR from:AtlanticCity911 OR from:EdisonNJ OR from:ConEdison"
+    },
+    {
+    	"tag":"Sandy/Election - users TOP - mentions (@)",
+    	"value":"@breakingnews OR @bbcbreaking OR @cnnbrk OR @wsjbreakingnews OR @reuterslive OR @cbstopnews OR @ajelive OR @skynewsbreak OR @abcnewslive OR @twcbreaking OR @nytimes OR @usatoday OR  OR@cnn OR @foxnews @weatherchannel OR @fema OR @femaregion1 OR @femaregion2 OR @femaregion3 OR @NOAA OR @NYGovCuomo OR @mikebloomberg OR @nycmayorsoffice OR @GovChristie OR @CityofNewarkNJ OR @CoryBooker OR @MayorAC OR @redcrossny OR @RedCrossNorthNJ OR  @Response_NNJ OR @CNJRedCross OR @RedCross OR @NYPDnews OR @NY_Police OR @FDNY OR @MTA OR @NewarkNJPolice OR @AtlanticCity911 OR @EdisonNJ OR @ConEdison"
+    },
+    {
+    	"tag":"Sandy/Election - users TOP - retweets (retweets_of:)",
+    	"value":"retweets_of:breakingnews OR retweets_of:bbcbreaking OR retweets_of:cnnbrk OR retweets_of:wsjbreakingnews OR retweets_of:reuterslive OR retweets_of:cbstopnews OR retweets_of:ajelive OR retweets_of:skynewsbreak OR retweets_of:abcnewslive OR retweets_of:twcbreaking OR retweets_of:nytimes OR retweets_of:usatoday OR  ORretweets_of:cnn OR retweets_of:foxnews retweets_of:weatherchannel OR retweets_of:fema OR retweets_of:femaregion1 OR retweets_of:femaregion2 OR retweets_of:femaregion3 OR retweets_of:NOAA OR retweets_of:NYGovCuomo OR retweets_of:mikebloomberg OR retweets_of:nycmayorsoffice OR retweets_of:GovChristie OR retweets_of:CityofNewarkNJ OR retweets_of:CoryBooker OR retweets_of:MayorAC OR retweets_of:redcrossny OR retweets_of:RedCrossNorthNJ OR  retweets_of:Response_NNJ OR retweets_of:CNJRedCross OR retweets_of:RedCross OR retweets_of:NYPDnews OR retweets_of:NY_Police OR retweets_of:FDNY OR retweets_of:MTA OR retweets_of:NewarkNJPolice OR retweets_of:AtlanticCity911 OR retweets_of:EdisonNJ OR retweets_of:ConEdison"
+    },
+    {
+    	"tag":"Sandy/Election - users TOP - tweets to user (to:)",
+    	"value":"to:breakingnews OR to:bbcbreaking OR to:cnnbrk OR to:wsjbreakingnews OR to:reuterslive OR to:cbstopnews OR to:ajelive OR to:skynewsbreak OR to:abcnewslive OR to:twcbreaking OR to:nytimes OR to:usatoday OR  ORto:cnn OR to:foxnews to:weatherchannel OR to:fema OR to:femaregion1 OR to:femaregion2 OR to:femaregion3 OR to:NOAA OR to:NYGovCuomo OR to:mikebloomberg OR to:nycmayorsoffice OR to:GovChristie OR to:CityofNewarkNJ OR to:CoryBooker OR to:MayorAC OR to:redcrossny OR to:RedCrossNorthNJ OR  to:Response_NNJ OR to:CNJRedCross OR to:RedCross OR to:NYPDnews OR to:NY_Police OR to:FDNY OR to:MTA OR to:NewarkNJPolice OR to:AtlanticCity911 OR to:EdisonNJ OR to:ConEdison"
+    }
+  ]
+}
