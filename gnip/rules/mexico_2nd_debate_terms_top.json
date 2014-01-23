@@ -1,0 +1,21 @@
+{
+	"rules":[
+		{
+			"tag":"Mexico 2nd Debate - terms TOP (exact match)",
+			"value":"Obrador OR Nieto OR Torre OR Josefina OR Mota OR 'Guadalupe Juárez' OR Solórzano"
+		},
+		{
+			"tag":"Mexico 2nd  Debate - users TOP - tweets (from:)",
+			"value":"from:reuterslive OR from:cbstopnews OR from:ajelive OR from:skynewsbreak OR from:abcnewslive OR from:twcbreaking OR from:JosefinaVM OR from:lopezobrador_ OR from:EPN OR from:g_quadri OR from:SergioyLupita OR  from:PRDmexico OR from:PTMexico OR from:MovCiudadanoMX OR from:PRI_Nacional OR from:partidoverdemex OR from:NuevAlianzaMX OR from:AccionNacional"
+		},{
+			"tag":"Mexico 2nd Debate - users TOP - mentions (@)",
+			"value":"@reuterslive OR @cbstopnews OR @ajelive OR @skynewsbreak OR @abcnewslive OR @twcbreaking OR @JosefinaVM OR @lopezobrador_ OR @EPN OR @g_quadri OR @SergioyLupita OR  @PRDmexico OR @PTMexico OR @MovCiudadanoMX OR @PRI_Nacional OR @partidoverdemex OR @NuevAlianzaMX OR @AccionNacional"
+		},{
+			"tag":"Mexico 2nd Debate - users TOP - retweets (retweets_of:)",
+			"value":"retweets_of:reuterslive OR retweets_of:cbstopnews OR retweets_of:ajelive OR retweets_of:skynewsbreak OR retweets_of:abcnewslive OR retweets_of:twcbreaking OR retweets_of:JosefinaVM OR retweets_of:lopezobrador_ OR retweets_of:EPN OR retweets_of:g_quadri OR retweets_of:SergioyLupita OR  retweets_of:PRDmexico OR retweets_of:PTMexico OR retweets_of:MovCiudadanoMX OR retweets_of:PRI_Nacional OR retweets_of:partidoverdemex OR retweets_of:NuevAlianzaMX OR retweets_of:AccionNacional"
+		},{
+			"tag":"Mexico 2nd Debate - users TOP - tweets to user (to:)",
+			"value":"to:reuterslive OR to:cbstopnews OR to:ajelive OR to:skynewsbreak OR to:abcnewslive OR to:twcbreaking OR to:JosefinaVM OR to:lopezobrador_ OR to:EPN OR to:g_quadri OR to:SergioyLupita OR  to:PRDmexico OR to:PTMexico OR to:MovCiudadanoMX OR to:PRI_Nacional OR to:partidoverdemex OR to:NuevAlianzaMX OR to:AccionNacional"
+		}
+	]
+}
