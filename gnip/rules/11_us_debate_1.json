@@ -1,0 +1,10 @@
+{
+  "rules":
+  [
+    {
+    	"tag":"US debate 1 - terms ALL",
+    	"value":"'paul ryan' OR  paulryan OR  romney OR  obama OR  biden OR  barack OR  mitt OR  #barry OR  #willard OR  debate OR  #forward OR  #tcot OR  #tlot OR  #sgp OR  #twisters OR  #uniteblue OR  #p2 OR  teaparty OR  'tea party' OR  gop OR  rnc OR  dnc OR  dnc2012 OR  rnc2012 OR  election2012 OR  vote OR  '47 percent' OR  47% OR   #dontdoublemyrate OR  lehrer OR  bigbird OR  'big bird' OR  #pmtdebate OR  #forwardnotback OR  letsnot OR  ''Let’s not'' OR  Medicare OR  #cantafford4more OR  'borrow from your parents' OR  '5 seconds' OR  #gop2012 OR  #romney2012 OR  #dnc2012 OR  #obama2012 OR  #Election2012 OR  #sgp OR  #rush OR  #maddow OR  #cnnfail OR  #47percent OR  #barackhusseinobama OR  #thankyouobama OR  #barackobama OR  #mittromney OR  'Jim Lehrer' OR  #firebigbird OR  #pmtdebate OR  #forwardnotback OR  ''let’s not'' OR  Obamacare OR  Medicare OR  'Never mind' OR  win OR  won OR  nervous OR  tired OR  lose OR  lost OR  #debatedenver"
+    }
+      
+  ]
+}
