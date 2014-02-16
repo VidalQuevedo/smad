@@ -1,15 +1,1 @@
-{
-  "publisher": "twitter",
-  "streamType": "track",
-  "dataFormat": "original",
-  "fromDate": "201210030000",
-  "toDate": "201210042359",
-  "rules": [
-    {
-      "tag":"US debate 1 - terms TOP (exact match)",
-      "value":"'paul ryan' OR paulryan OR romney OR obama OR biden OR barack OR mitt OR #barry OR #willard OR debate OR #forward OR #tcot OR #tlot OR #sgp OR #twisters OR #uniteblue OR #p2 OR teaparty OR 'tea party' OR gop OR rnc OR dnc OR dnc2012 OR rnc2012 OR election2012 OR #gop2012 OR #romney2012 OR #dnc2012 OR #obama2012 OR #Election2012 OR vote OR '47 percent' OR 47% OR  #dontdoublemyrate OR lehrer OR bigbird OR 'big bird' OR #pmtdebate OR #forwardnotback OR letsnot OR 'Let’s not' OR Medicare OR #cantafford4more OR “borrow from your parents” OR '5 seconds'"
-    }
-  ],
-  "title": "US debate 1 - terms TOP (exact match)",
-  "serviceUsername": "@dvshah"
-}
+{"publisher": "twitter","streamType": "track","dataFormat": "original","fromDate": "201210030000","toDate": "201210042359","rules": [  {    "tag": "us_debate_1",    "value": "paulryan"  }],"title": "uw_debate_1","serviceUsername": "dvshah"}
