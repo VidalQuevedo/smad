@@ -5,6 +5,7 @@
 	"fromDate": "201205100000",
 	"toDate": "201205112359",
 	"rules": [
+		{"value":"time_zone:Cairo"},
 		{"value":"retweets_of:draboulfotoh"},
 		{"value":"retweets_of:amremoussa"},
 		{"value":"retweets_of:muhammadmorsi"},
