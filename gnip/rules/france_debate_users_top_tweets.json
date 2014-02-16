@@ -5,6 +5,7 @@
 	"fromDate": "201205020000",
 	"toDate": "201205032359",
 	"rules": [
+		{"value":"time_zone:Paris"},
 		{"value":"from:davidpujadas"},
 		{"value":"from:LeMondefr"},
 		{"value":"from:lemonde_pol"},
