@@ -1,0 +1,28 @@
+{
+  "rules":
+  [
+    {
+    	"tag":"Major youth engagement organizations - tweets",
+    	"value":"from:Bullying_org OR  from:genprogress OR  from:declareyourself OR  from:dosomething OR  from:freeculture OR  from:FutureMajority OR  from:girls_inc OR  from:globalkids OR  from:idealist OR  from:IGHIH OR  from:MySistahs OR  from:peta2 OR  from:razoo OR  from:reznet OR  from:RockTheVote OR  from:SpankMag OR  from:takingitglobal OR  from:MTVact OR  from:Tolerance_org OR  from:wiretapmagazine OR  from:AmplifyTweets OR  from:BarackObama OR  from:BostonYouthZone OR  from:CollegeDems OR  from:CRNC OR  from:EPA OR  from:HillaryClinton OR  from:SenJohnMcCain OR  from:PeaceCorps OR  from:GOP OR  from:TheDemocrats OR  from:servedotgov OR  from:youngdems OR  from:GLSEN OR  from:gsanetwork OR  from:greenpeaceusa OR  from:HRC OR  from:KSEgreenschool OR  from:NAACP OR  from:youthrights OR  from:NRA OR  from:OasisMag OR  from:SADDnational OR  from:sierraclub OR  from:Sierrastudent OR  from:the_sca OR  from:sfthq OR  from:TheSurvivors OR  from:HillelFJCL OR  from:UNICEF OR  from:yaf OR  from:ACLUofWisconsin OR  from:BGCMetroDenver OR  from:Circle10BSA OR  from:ChannelOneNews OR  from:crfusa OR  from:GSBadgerland OR  from:youthjournalism OR  from:iEARNUSA OR  from:keyclub OR  from:LIFTCommunities OR  from:4H OR  from:SeattleYMCA OR  from:teenink OR  from:CityKids_NYC OR  from:betaclub OR  from:AshokaGenV OR  from:ywam OR  from:youthservice "
+    },
+    
+    
+    {
+    	"tag":"Major youth engagement organizations - mentions",
+    	"value": "@Bullying_org, @genprogress, @declareyourself, @dosomething, @freeculture, @FutureMajority, @girls_inc, @globalkids, @idealist, @IGHIH, @MySistahs, @peta2, @razoo, @reznet, @RockTheVote, @SpankMag, @takingitglobal, @MTVact, @Tolerance_org, @wiretapmagazine, @AmplifyTweets, @BarackObama, @BostonYouthZone, @CollegeDems, @CRNC, @EPA, @HillaryClinton, @SenJohnMcCain, @PeaceCorps, @GOP, @TheDemocrats, @servedotgov, @youngdems, @GLSEN, @gsanetwork, @greenpeaceusa, @HRC, @KSEgreenschool, @NAACP, @youthrights, @NRA, @OasisMag, @SADDnational, @sierraclub, @Sierrastudent, @the_sca, @sfthq, @TheSurvivors, @HillelFJCL, @UNICEF, @yaf, @ACLUofWisconsin, @BGCMetroDenver, @Circle10BSA, @ChannelOneNews, @crfusa, @GSBadgerland, @youthjournalism, @iEARNUSA, @keyclub, @LIFTCommunities, @4H, @SeattleYMCA, @teenink, @CityKids_NYC, @betaclub, @AshokaGenV, @ywam, @youthservice"
+    },
+    
+    {
+    	"tag":"Major youth engagement organizations - retweets",
+    	"value":"retweets_of:Bullying_org OR  retweets_of:genprogress OR  retweets_of:declareyourself OR  retweets_of:dosomething OR  retweets_of:freeculture OR  retweets_of:FutureMajority OR  retweets_of:girls_inc OR  retweets_of:globalkids OR  retweets_of:idealist OR  retweets_of:IGHIH OR  retweets_of:MySistahs OR  retweets_of:peta2 OR  retweets_of:razoo OR  retweets_of:reznet OR  retweets_of:RockTheVote OR  retweets_of:SpankMag OR  retweets_of:takingitglobal OR  retweets_of:MTVact OR  retweets_of:Tolerance_org OR  retweets_of:wiretapmagazine OR  retweets_of:AmplifyTweets OR  retweets_of:BarackObama OR  retweets_of:BostonYouthZone OR  retweets_of:CollegeDems OR  retweets_of:CRNC OR  retweets_of:EPA OR  retweets_of:HillaryClinton OR  retweets_of:SenJohnMcCain OR  retweets_of:PeaceCorps OR  retweets_of:GOP OR  retweets_of:TheDemocrats OR  retweets_of:servedotgov OR  retweets_of:youngdems OR  retweets_of:GLSEN OR  retweets_of:gsanetwork OR  retweets_of:greenpeaceusa OR  retweets_of:HRC OR  retweets_of:KSEgreenschool OR  retweets_of:NAACP OR  retweets_of:youthrights OR  retweets_of:NRA OR  retweets_of:OasisMag OR  retweets_of:SADDnational OR  retweets_of:sierraclub OR  retweets_of:Sierrastudent OR  retweets_of:the_sca OR  retweets_of:sfthq OR  retweets_of:TheSurvivors OR  retweets_of:HillelFJCL OR  retweets_of:UNICEF OR  retweets_of:yaf OR  retweets_of:ACLUofWisconsin OR  retweets_of:BGCMetroDenver OR  retweets_of:Circle10BSA OR  retweets_of:ChannelOneNews OR  retweets_of:crfusa OR  retweets_of:GSBadgerland OR  retweets_of:youthjournalism OR  retweets_of:iEARNUSA OR  retweets_of:keyclub OR  retweets_of:LIFTCommunities OR  retweets_of:4H OR  retweets_of:SeattleYMCA OR  retweets_of:teenink OR  retweets_of:CityKids_NYC OR  retweets_of:betaclub OR  retweets_of:AshokaGenV OR  retweets_of:ywam OR  retweets_of:youthservice "
+    },
+    
+    {
+    	"tag":"Major youth engagement organizations - tweets to user",
+    	"value":"to:Bullying_org OR  to:genprogress OR  to:declareyourself OR  to:dosomething OR  to:freeculture OR  to:FutureMajority OR  to:girls_inc OR  to:globalkids OR  to:idealist OR  to:IGHIH OR  to:MySistahs OR  to:peta2 OR  to:razoo OR  to:reznet OR  to:RockTheVote OR  to:SpankMag OR  to:takingitglobal OR  to:MTVact OR  to:Tolerance_org OR  to:wiretapmagazine OR  to:AmplifyTweets OR  to:BarackObama OR  to:BostonYouthZone OR  to:CollegeDems OR  to:CRNC OR  to:EPA OR  to:HillaryClinton OR  to:SenJohnMcCain OR  to:PeaceCorps OR  to:GOP OR  to:TheDemocrats OR  to:servedotgov OR  to:youngdems OR  to:GLSEN OR  to:gsanetwork OR  to:greenpeaceusa OR  to:HRC OR  to:KSEgreenschool OR  to:NAACP OR  to:youthrights OR  to:NRA OR  to:OasisMag OR  to:SADDnational OR  to:sierraclub OR  to:Sierrastudent OR  to:the_sca OR  to:sfthq OR  to:TheSurvivors OR  to:HillelFJCL OR  to:UNICEF OR  to:yaf OR  to:ACLUofWisconsin OR  to:BGCMetroDenver OR  to:Circle10BSA OR  to:ChannelOneNews OR  to:crfusa OR  to:GSBadgerland OR  to:youthjournalism OR  to:iEARNUSA OR  to:keyclub OR  to:LIFTCommunities OR  to:4H OR  to:SeattleYMCA OR  to:teenink OR  to:CityKids_NYC OR  to:betaclub OR  to:AshokaGenV OR  to:ywam OR  to:youthservice"
+    }
+    
+   
+    
+  ]
+}

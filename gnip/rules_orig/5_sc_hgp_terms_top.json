@@ -1,0 +1,24 @@
+{
+	"rules":[
+		{
+			"tag":"SC - HGP - terms TOP (exact match)",
+			"value":"'human genes' OR 'human gene' OR 'gene patent' OR 'gene patents' OR 'gene patenting' OR 'myriad genetics' OR myriad OR 'myriad patent' OR brca OR 'genetic testing' OR scotus OR 'supreme court ruling' OR #brca OR #myriad OR #genepatents OR #genes OR #gene OR #utah OR #bcsm OR #patented OR #scotus OR #teamfollowback OR #health OR #humangenepatents OR #patent OR #patents OR #supremecourt OR #publichealth"
+		},
+		{
+			"tag":"SC - HGP - users TOP - tweets (from:)",
+			"value":"from:yahoo OR from:cnn OR from:thedailyshow OR from:bcaction OR from:bbcbreaking OR from:cnnbrk OR from:wsj OR from:washingtonpost OR from:nytimes OR from:usatoday OR from:eff OR from:aclu OR from:scotusblog OR from:huffingtonpost OR from:supremehaiku OR from:cnbc OR from:geneticsupdate OR from:ussupremecourt OR from:organiclifefood OR from:slate OR from:abc"
+		},
+		{
+			"tag":"SC - HGP - users TOP - mentions (@)",
+			"value":"@yahoo OR @cnn OR @thedailyshow OR @bcaction OR @bbcbreaking OR @cnnbrk OR @wsj OR @washingtonpost OR @nytimes OR @usatoday OR @eff OR @aclu OR @scotusblog OR @huffingtonpost OR @supremehaiku OR @cnbc OR @geneticsupdate OR @ussupremecourt OR @organiclifefood OR @slate OR @abc"
+		},
+		{
+			"tag":"SC - HGP - users TOP - retweets (retweets_of:)",
+			"value":"retweets_of:yahoo OR retweets_of:cnn OR retweets_of:thedailyshow OR retweets_of:bcaction OR retweets_of:bbcbreaking OR retweets_of:cnnbrk OR retweets_of:wsj OR retweets_of:washingtonpost OR retweets_of:nytimes OR retweets_of:usatoday OR retweets_of:eff OR retweets_of:aclu OR retweets_of:scotusblog OR retweets_of:huffingtonpost OR retweets_of:supremehaiku OR retweets_of:cnbc OR retweets_of:geneticsupdate OR retweets_of:ussupremecourt OR retweets_of:organiclifefood OR retweets_of:slate OR retweets_of:abc"
+		},
+		{
+			"tag":"SC - HGP - users TOP - tweets to user (to:)",
+			"value":"to:yahoo OR to:cnn OR to:thedailyshow OR to:bcaction OR to:bbcbreaking OR to:cnnbrk OR to:wsj OR to:washingtonpost OR to:nytimes OR to:usatoday OR to:eff OR to:aclu OR to:scotusblog OR to:huffingtonpost OR to:supremehaiku OR to:cnbc OR to:geneticsupdate OR to:ussupremecourt OR to:organiclifefood OR to:slate OR to:abc"
+		}
+	]
+}

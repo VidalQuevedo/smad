@@ -1,0 +1,24 @@
+{
+	"rules": [
+		{
+			"tag":"France Debate - terms TOP (exact match)",
+			"value":"Sarkozy OR Hollande OR Arthaud OR Bayrou OR Cheminade OR Dupont-Aignan OR Joly OR Le Pen OR Melenchon OR Poutou OR Laurence Ferrari OR David Pujadas OR #avecsarkozy OR #votehollande OR debat OR immigration OR chomage OR changement OR classique OR president OR rassemblement OR democratie OR authentique OR republique OR France OR Francais OR Allemagne OR Europe OR emplois OR deficit OR l’etat OR mensonge OR recession OR taux OR impot OR auterite OR nucleaire OR #FH2012 OR #ns2012 OR #factchecking OR chiffres OR sarko OR #france"
+		},
+		{
+			"tag":"France Debate - users TOP - tweets (from:)",
+			"value":"from:davidpujadas OR from:LeMondefr OR from:lemonde_pol OR from:Le_Figaro OR from:LaurenceFerrari OR from:FrancoisFillon OR from:jeanmarcayrault OR from:fhollande OR from:nicolassarkozy OR from:Arthaud2012 OR from:JLMelenchon OR from:bayrou OR from:JCheminade OR from:dupontaignan OR from:EvaJoly OR from:MLP_officiel OR from:PhillipePoutou OR from:partisocialiste OR from:UMP OR from:jeunesump OR from:LutteOuvrier OR from:partisocialiste OR from:LePG OR from:MoDem OR from:SetP_officiel OR from:EELV OR from:FN2012 OR from:FN_officiel OR from:NPA200"
+		},
+		{
+			"tag":"France Debate - users TOP - mentions (@)",
+			"value":"@davidpujadas OR @LeMondefr OR @lemonde_pol OR @Le_Figaro OR @LaurenceFerrari OR @FrancoisFillon OR @jeanmarcayrault OR @fhollande OR @nicolassarkozy OR @Arthaud2012 OR @JLMelenchon OR @bayrou OR @JCheminade OR @dupontaignan OR @EvaJoly OR @MLP_officiel OR @PhillipePoutou OR @partisocialiste OR @UMP OR @jeunesump OR @LutteOuvrier OR @partisocialiste OR @LePG OR @MoDem OR @SetP_officiel OR @EELV OR @FN2012 OR @FN_officiel OR @NPA200"
+		},
+		{
+			"tag":"France Debate - users TOP - retweets (retweets_of",
+			"value":"retweets_of:davidpujadas OR retweets_of:LeMondefr OR retweets_of:lemonde_pol OR retweets_of:Le_Figaro OR retweets_of:LaurenceFerrari OR retweets_of:FrancoisFillon OR retweets_of:jeanmarcayrault OR retweets_of:fhollande OR retweets_of:nicolassarkozy OR retweets_of:Arthaud2012 OR retweets_of:JLMelenchon OR retweets_of:bayrou OR retweets_of:JCheminade OR retweets_of:dupontaignan OR retweets_of:EvaJoly OR retweets_of:MLP_officiel OR retweets_of:PhillipePoutou OR retweets_of:partisocialiste OR retweets_of:UMP OR retweets_of:jeunesump OR retweets_of:LutteOuvrier OR retweets_of:partisocialiste OR retweets_of:LePG OR retweets_of:MoDem OR retweets_of:SetP_officiel OR retweets_of:EELV OR retweets_of:FN2012 OR retweets_of:FN_officiel OR retweets_of:NPA200"
+		},
+		{
+			"tag":"France Debate - users TOP - tweets to user (to:)",
+			"value":"to:davidpujadas OR to:LeMondefr OR to:lemonde_pol OR to:Le_Figaro OR to:LaurenceFerrari OR to:FrancoisFillon OR to:jeanmarcayrault OR to:fhollande OR to:nicolassarkozy OR to:Arthaud2012 OR to:JLMelenchon OR to:bayrou OR to:JCheminade OR to:dupontaignan OR to:EvaJoly OR to:MLP_officiel OR to:PhillipePoutou OR to:partisocialiste OR to:UMP OR to:jeunesump OR to:LutteOuvrier OR to:partisocialiste OR to:LePG OR to:MoDem OR to:SetP_officiel OR to:EELV OR to:FN2012 OR to:FN_officiel OR to:NPA200"
+		}
+	]
+}
