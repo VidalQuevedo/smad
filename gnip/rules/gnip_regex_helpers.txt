@@ -1,5 +1,9 @@
 # GNIP regex helpers
 
+## Add scaped quotations to string with more than one word
+	- Find what: ((\w+ ){1}(\w+| )+)
+	- Replace with: \\\"$1\\\"
+
 ## When using contains: operator, select terms with whitespace and escape them
 	- Find what: (contains:)((\w+ ){1}[\w+ ]+)
 	- Replace with: $1\\\"$2\\\"
