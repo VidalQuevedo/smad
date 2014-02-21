@@ -9,6 +9,12 @@
 				- Limit the number of terms of each list to 30 terms max.
 			- Limit lang to only 'en' and 'es'
 
+## 02/21
+
+- US debates top users: too many users to run @, to, from, retweet_of rules together. Run separately? (this would add 8 more filtered days)
+
+
+
 
 
 
