@@ -1,0 +1,15 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201205100000",
+  "toDate": "201205112359",
+  "rules": [
+		{	"tag": "hashtags",
+			"value":"time_zone:Cairo AND (#aboulfotoh OR #amrmoussa OR #factcheck OR #jan25 OR #monazarat OR #scaf #أبوالفتوح OR #ابوالفتوح OR #المناظرة OR #رئيس_مصر OR #عمروموسى OR #مناظرات OR #مناظرة_الرئاسة)"},
+    { "tag":"terms",
+      "value":"time_zone:Cairo AND (abbasiya OR abbasiyah OR abbassiya OR abbassiyah OR abdel moneim OR abo elfotoh OR abolfotoh OR abolfotouh OR aboul fotoh OR aboul fotouh OR aboul fotouh OR aboulfotoh OR aboulfotouh)"}
+  ],
+  "title":"egypt_debate_terms_top_TIMEZONE_AND_TERMS_AND_HASHTAGS",
+  "serviceUsername": "dvshah"
+}

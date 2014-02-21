@@ -1,0 +1,13 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201210030000",
+  "toDate": "201210042359",
+  "rules": [
+		{"value":"contains:obama"},
+		{"value":"contains:romney"}
+  ],
+  "title":"us_debate_1_terms_top_obama_romney_sep_rules_contains",
+  "serviceUsername": "dvshah"
+}

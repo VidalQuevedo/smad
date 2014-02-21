@@ -1,0 +1,12 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201210030000",
+  "toDate": "201210042359",
+  "rules": [
+		{"value":"obama OR romney"}
+  ],
+  "title":"us_debate_1_terms_top_obama_romney_OR",
+  "serviceUsername": "dvshah"
+}
