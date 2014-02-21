@@ -1,0 +1,5 @@
+# GNIP regex helpers
+
+## When using contains: operator, select terms with whitespace and escape them
+	- Find what: (contains:)((\w+ ){1}[\w+ ]+)
+	- Replace with: $1\\\"$2\\\"
