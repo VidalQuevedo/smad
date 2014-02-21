@@ -17,8 +17,8 @@
 		{"value":"time_zone:Paris contains:Poutou"},
 		{"value":"time_zone:Paris contains:\"Laurence Ferrari\""},
 		{"value":"time_zone:Paris contains:\"David Pujadas\""},
-		{"value":"time_zone:Paris contains:#avecsarkozy"},
-		{"value":"time_zone:Paris contains:#votehollande"},
+		{"value":"time_zone:Paris #avecsarkozy"},
+		{"value":"time_zone:Paris #votehollande"},
 		{"value":"time_zone:Paris contains:debat"},
 		{"value":"time_zone:Paris contains:immigration"},
 		{"value":"time_zone:Paris contains:chomage"},
@@ -42,12 +42,12 @@
 		{"value":"time_zone:Paris contains:impot"},
 		{"value":"time_zone:Paris contains:auterite"},
 		{"value":"time_zone:Paris contains:nucleaire"},
-		{"value":"time_zone:Paris contains:#FH2012"},
-		{"value":"time_zone:Paris contains:#ns2012"},
-		{"value":"time_zone:Paris contains:#factchecking"},
+		{"value":"time_zone:Paris #FH2012"},
+		{"value":"time_zone:Paris #ns2012"},
+		{"value":"time_zone:Paris #factchecking"},
 		{"value":"time_zone:Paris contains:chiffres"},
 		{"value":"time_zone:Paris contains:sarko"},
-		{"value":"time_zone:Paris contains:#france"}	
+		{"value":"time_zone:Paris #france"}	
 ],
 	"title":"france_debate_terms_top_contains",
 	"serviceUsername": "dvshah"
