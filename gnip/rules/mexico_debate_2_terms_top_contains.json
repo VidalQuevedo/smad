@@ -1,0 +1,18 @@
+{
+	"publisher": "twitter",
+	"streamType": "track",
+	"dataFormat": "original",
+	"fromDate": "201206100000",
+	"toDate": "201206112359",
+	"rules": [
+		{"value":"contains:Obrador"},
+		{"value":"contains:Nieto"},
+		{"value":"contains:Torre"},
+		{"value":"contains:Josefina"},
+		{"value":"contains:Mota"},
+		{"value":"contains:\"Guadalupe Juárez\""},
+		{"value":"contains:Solórzano"}
+	],
+	"title":"mexico_debate_2_terms_top_contains",
+	"serviceUsername": "dvshah"
+}
