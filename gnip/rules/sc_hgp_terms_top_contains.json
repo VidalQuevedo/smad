@@ -1,0 +1,30 @@
+	{
+	"publisher": "twitter",
+	"streamType": "track",
+	"dataFormat": "original",
+	"fromDate": "201306110000",
+	"toDate": "201306202359",
+	"rules": [
+
+{"value":"contains:\"human gene\""},
+{"value":"contains:\"gene patent\""},
+{"value":"contains:myriad"},
+{"value":"contains:brca"},
+{"value":"contains:\"genetic testing\""},
+{"value":"#brca"},
+{"value":"#myriad"},
+{"value":"#genepatents"},
+{"value":"#genes"},
+{"value":"#bcsm"},
+{"value":"#humangenepatents"},
+{"value":"contains:scotus"},
+{"value":"contains:\"supreme court\""},
+{"value":"contains:\"scotus blog\""},
+{"value":"#scotus"},
+{"value":"#supremecourt"},
+{"value":"#scotus"}
+
+	],
+	"title":"sc_hgp_terms_top_contains",
+	"serviceUsername": "dvshah"
+}

@@ -2,8 +2,8 @@
 	"publisher": "twitter",
 	"streamType": "track",
 	"dataFormat": "original",
-	"fromDate": "201206230000",
-	"toDate": "201207022359",
+	"fromDate": "201306230000",
+	"toDate": "201307022359",
 	"rules": [
 
 {"value":"@chrislhayes"},
