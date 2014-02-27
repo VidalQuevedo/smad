@@ -1,0 +1,20 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201304130000",
+  "toDate": "201304150000",
+  "rules": [
+  
+{"value":"contains:APhacked"},
+{"value":"contains:\"AP hacked\""},
+{"value":"contains:hacked"},
+{"value":"#AP"},
+{"value":"contains:AP"},
+{"value":"contains:\"two explosions\""},
+{"value":"contains:\"Obama injured\""}
+
+  ],
+  "title":"wod_ap_hacking_terms_contains",
+  "serviceUsername": "dvshah"
+}
