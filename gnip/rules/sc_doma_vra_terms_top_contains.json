@@ -2,8 +2,8 @@
 	"publisher": "twitter",
 	"streamType": "track",
 	"dataFormat": "original",
-	"fromDate": "201206180000",
-	"toDate": "201207092359",
+	"fromDate": "201206230000",
+	"toDate": "201207022359",
 	"rules": [
 
 {"value":"contains:\"voting rights act\""},
@@ -56,6 +56,6 @@
 {"value":"#scotus"}
 
 	],
-	"title":"sc_vra_terms_top_contains",
+	"title":"sc_doma_vra_terms_top_contains",
 	"serviceUsername": "dvshah"
 }
