@@ -1,0 +1,28 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201304170000",
+  "toDate": "201304182359",
+  "rules": [
+
+{"value":"#west"},
+{"value":"#westtexas"},
+{"value":"#westtx"},
+{"value":"contains:fertilizer"},
+{"value":"#fertilizer"},
+{"value":"contains:\"west explosion\""},
+{"value":"#westexplosion"},
+{"value":"contains:explosion"},
+{"value":"#explosion"},
+{"value":"#plantexplosion"},
+{"value":"#fertilizerexplosion"},
+{"value":"#fertilizerplant"},
+{"value":"#texasplant"},
+{"value":"#prayfortexas"},
+{"value":"#prayforwest"}
+    
+  ],
+  "title":"wod_texas_explosion_terms_contains",
+  "serviceUsername": "dvshah"
+}
