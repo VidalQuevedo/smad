@@ -1,0 +1,22 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201304160000",
+  "toDate": "201304172359",
+  "rules": [
+
+{"value":"contains:\"Kevin Curtis\""},
+{"value":"contains:\"Harry Reid\""},
+{"value":"contains:Ricin"},
+{"value":"contains:\"elvis impersonator\""},
+{"value":"#ricin"},
+{"value":"contains:\"Roger Wicker\""},
+{"value":"contains:Obama"},
+{"value":"contains:envelope"},
+{"value":"contains:letter"}
+		
+	],
+  "title":"wod_ricin_letters_terms_contains",
+  "serviceUsername": "dvshah"
+}
