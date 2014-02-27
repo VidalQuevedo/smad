@@ -1,0 +1,44 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201304230000",
+  "toDate": "201305012359",
+  "rules": [
+
+{"value":"contains:\"Rana Plaza\""},
+{"value":"contains:ranaplaza"},
+{"value":"contains:Savar"},
+{"value":"contains:Dhaka"},
+{"value":"contains:Bangladesh"},
+{"value":"contains:\"factory collapse\""},
+{"value":"contains:\"building collapse\""},
+{"value":"contains:\"garment workers\""},
+{"value":"contains:\"garment industry\""},
+{"value":"contains:factorycollapse"},
+{"value":"contains:buildingcollapse"},
+{"value":"contains:garmentworkers"},
+{"value":"contains:garmentindustry"},
+{"value":"contains:\"sweat shop\""},
+{"value":"contains:sweatshop"},
+{"value":"contains:Benetton"},
+{"value":"contains:Bonmarché"},
+{"value":"contains:\"Cato Fashions\""},
+{"value":"contains:\"Children's Place\""},
+{"value":"contains:\"El Corte Inglés\""},
+{"value":"contains:\"Joe Fresh\""},
+{"value":"contains:Mango"},
+{"value":"contains:Matalan"},
+{"value":"contains:Primark"},
+{"value":"contains:Walmart"},
+{"value":"contains:Boycott"},
+{"value":"contains:CatoFashions"},
+{"value":"contains:ChildrensPlace"},
+{"value":"contains:ElCorteInglés"},
+{"value":"contains:JoeFresh"}
+
+    
+  ],
+  "title":"wod_factory_collapse_terms_contains",
+  "serviceUsername": "dvshah"
+}
