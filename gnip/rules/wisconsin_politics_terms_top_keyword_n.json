@@ -1,0 +1,22 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201205080000",
+  "toDate": "201207202359",
+  "rules": [
+
+{"value":"\"canada health\"~3"},
+{"value":"\"suck tax\"~3"},
+{"value":"\"overpaid teacher\"~3"},
+{"value":"\"overpaid union\"~3"},
+{"value":"\"lazy union\"~3"},
+{"value":"\"elite madison\"~3"},
+{"value":"\"elite milwaukee\"~3"},
+{"value":"\"welfare madison\"~3"},
+{"value":"\"welfare milwaukee\"~3"}
+		
+	],
+  "title":"wisconsin_politics_terms_top_keyword_n",
+  "serviceUsername": "dvshah"
+}
