@@ -1,0 +1,408 @@
+**************************************
+*** us_debate_1_terms_top_contains ***
+**************************************
+
+From date ................ 2012-10-03 00:00:00
+To date .................. 2012-10-04 23:59:00
+Request date ............. 2014-02-27 02:03:25
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 9,483,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 4,340.0
+ Expires at .............. 2014-03-06 02:08:41
+
+*****************************
+*** us_debate_1_users_top ***
+*****************************
+
+From date ................ 2012-10-03 00:00:00
+To date .................. 2012-10-04 23:59:00
+Request date ............. 2014-02-27 02:07:09
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,481,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 676.0
+ Expires at .............. 2014-03-06 02:12:02
+
+**************************************
+*** us_debate_3_terms_top_contains ***
+**************************************
+
+From date ................ 2012-10-16 00:00:00
+To date .................. 2012-10-17 23:59:00
+Request date ............. 2014-02-27 02:09:40
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 8,446,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 3,916.0
+ Expires at .............. 2014-03-06 02:13:47
+
+*****************************
+*** us_debate_3_users_top ***
+*****************************
+
+From date ................ 2012-10-16 00:00:00
+To date .................. 2012-10-17 23:59:00
+Request date ............. 2014-02-27 02:11:06
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,386,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 646.0
+ Expires at .............. 2014-03-06 02:14:40
+
+**************************************
+*** us_debate_4_terms_top_contains ***
+**************************************
+
+From date ................ 2012-10-22 00:00:00
+To date .................. 2012-10-23 23:59:00
+Request date ............. 2014-02-27 02:13:00
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 7,552,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 3,557.0
+ Expires at .............. 2014-03-06 02:17:47
+
+*****************************
+*** us_debate_4_users_top ***
+*****************************
+
+From date ................ 2012-10-22 00:00:00
+To date .................. 2012-10-23 23:59:00
+Request date ............. 2014-02-27 02:15:35
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,337,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 626.0
+ Expires at .............. 2014-03-06 02:18:53
+
+******************************
+*** egypt_debate_terms_top ***
+******************************
+
+From date ................ 2012-05-10 00:00:00
+To date .................. 2012-05-11 23:59:00
+Request date ............. 2014-02-27 02:16:33
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 226,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 100.0
+ Expires at .............. 2014-03-06 02:19:43
+
+****************************************************
+*** egypt_debate_users_top_@_to_from_retweets_to ***
+****************************************************
+
+From date ................ 2012-05-10 00:00:00
+To date .................. 2012-05-11 23:59:00
+Request date ............. 2014-02-27 02:16:52
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 9,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 5.0
+ Expires at .............. 2014-03-06 02:19:53
+
+****************************************
+*** france_debate_terms_top_contains ***
+****************************************
+
+From date ................ 2012-05-02 00:00:00
+To date .................. 2012-05-03 23:59:00
+Request date ............. 2014-02-27 02:17:52
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 408,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 176.0
+ Expires at .............. 2014-03-06 02:20:42
+
+*****************************************************
+*** france_debate_users_top_@_to_from_retweets_of ***
+*****************************************************
+
+From date ................ 2012-05-02 00:00:00
+To date .................. 2012-05-03 23:59:00
+Request date ............. 2014-02-27 02:18:06
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 44,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 21.0
+ Expires at .............. 2014-03-06 02:20:53
+
+******************************************
+*** mexico_debate_1_terms_top_contains ***
+******************************************
+
+From date ................ 2012-05-06 00:00:00
+To date .................. 2012-05-07 23:59:00
+Request date ............. 2014-02-27 02:20:52
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,570,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 604.0
+ Expires at .............. 2014-03-06 02:24:46
+
+*********************************************************
+*** mexico_debate_1_users_top_@_to_from_retweets_from ***
+*********************************************************
+
+From date ................ 2012-05-06 00:00:00
+To date .................. 2012-05-07 23:59:00
+Request date ............. 2014-02-27 02:21:24
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 591,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 241.0
+ Expires at .............. 2014-03-06 02:24:56
+
+******************************************
+*** mexico_debate_2_terms_top_contains ***
+******************************************
+
+From date ................ 2012-06-10 00:00:00
+To date .................. 2012-06-11 23:59:00
+Request date ............. 2014-02-27 02:21:43
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 2,068,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 853.0
+ Expires at .............. 2014-03-06 02:25:03
+
+*********************************************************
+*** mexico_debate_2_users_top_@_to_from_retweets_from ***
+*********************************************************
+
+From date ................ 2012-06-10 00:00:00
+To date .................. 2012-06-11 23:59:00
+Request date ............. 2014-02-27 02:21:52
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 636,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 276.0
+ Expires at .............. 2014-03-06 02:25:17
+
+**************************************
+*** sc_monsanto_terms_top_contains ***
+**************************************
+
+From date ................ 2013-05-11 00:00:00
+To date .................. 2013-05-20 23:59:00
+Request date ............. 2014-02-27 03:10:32
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 6,619,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 3,119.0
+ Expires at .............. 2014-03-06 03:13:13
+
+**************************************
+*** sc_doma_vra_terms_top_contains ***
+**************************************
+
+From date ................ 2013-06-23 00:00:00
+To date .................. 2013-07-02 23:59:00
+Request date ............. 2014-02-27 03:13:28
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 7,950,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 3,875.0
+ Expires at .............. 2014-03-06 03:17:20
+
+***************************************************
+*** sc_doma_vra_users_top_@_of_from_retweets_of ***
+***************************************************
+
+From date ................ 2013-06-23 00:00:00
+To date .................. 2013-07-02 23:59:00
+Request date ............. 2014-02-27 03:13:52
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,056,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 506.0
+ Expires at .............. 2014-03-06 03:18:21
+
+*********************************
+*** sc_hgp_terms_top_contains ***
+*********************************
+
+From date ................ 2013-06-11 00:00:00
+To date .................. 2013-06-20 23:59:00
+Request date ............. 2014-02-27 03:14:16
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 214,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 104.0
+ Expires at .............. 2014-03-06 03:19:25
+
+*******************************************
+*** sc_hgp_users_top_@_to_from_retweets ***
+*******************************************
+
+From date ................ 2013-06-11 00:00:00
+To date .................. 2013-06-20 23:59:00
+Request date ............. 2014-02-27 03:14:31
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 977,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 481.0
+ Expires at .............. 2014-03-06 03:19:43
+
+***************************************************
+*** sc_monsanto_users_top_@_to_from_retweets_of ***
+***************************************************
+
+From date ................ 2013-05-11 00:00:00
+To date .................. 2013-05-20 23:59:00
+Request date ............. 2014-02-27 03:18:41
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 830,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 400.0
+ Expires at .............. 2014-03-06 03:22:18
+
+*********************************************
+*** wisconsin_politics_terms_top_contains ***
+*********************************************
+
+From date ................ 2012-05-08 00:00:00
+To date .................. 2012-07-20 23:59:00
+Request date ............. 2014-02-27 03:25:57
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 5,042,000
+ Est. Hours to Complete .. 68.0
+ Est. # filesize (MB)..... 2,178.0
+ Expires at .............. 2014-03-06 03:32:43
+
+**********************************************
+*** wisconsin_politics_terms_top_keyword_n ***
+**********************************************
+
+From date ................ 2012-05-08 00:00:00
+To date .................. 2012-07-20 23:59:00
+Request date ............. 2014-02-27 03:32:27
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 18,000
+ Est. Hours to Complete .. 64.0
+ Est. # filesize (MB)..... 15.0
+ Expires at .............. 2014-03-06 03:39:36
+
+**********************************************************
+*** wisconsin_politics_users_top_@_to_from_retweets_of ***
+**********************************************************
+
+From date ................ 2012-05-08 00:00:00
+To date .................. 2012-07-20 23:59:00
+Request date ............. 2014-02-27 03:38:24
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 509,000
+ Est. Hours to Complete .. 64.0
+ Est. # filesize (MB)..... 299.0
+ Expires at .............. 2014-03-06 03:45:49
+
+****************************************
+*** wod_ricin_letters_terms_contains ***
+****************************************
+
+From date ................ 2013-04-16 00:00:00
+To date .................. 2013-04-17 23:59:00
+Request date ............. 2014-02-27 03:45:48
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,161,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 537.0
+ Expires at .............. 2014-03-06 03:50:03
+
