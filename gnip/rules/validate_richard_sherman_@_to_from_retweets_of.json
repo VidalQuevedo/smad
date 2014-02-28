@@ -1,0 +1,21 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201401190000",
+  "toDate": "201401222359",
+  "rules": [
+  
+{"value":"@RSherman_25"},
+{"value":"@ErinAndrews"},
+{"value":"to:RSherman_25"},
+{"value":"to:ErinAndrews"},
+{"value":"from:RSherman_25"},
+{"value":"from:ErinAndrews"},
+{"value":"retweets_of:RSherman_25"},
+{"value":"retweets_of:ErinAndrews"}
+
+  ],
+  "title":"validate_richard_sherman_@_to_from_retweets_of",
+  "serviceUsername": "dvshah"
+}
