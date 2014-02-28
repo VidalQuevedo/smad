@@ -406,23 +406,6 @@ QUOTE:
  Est. # filesize (MB)..... 537.0
  Expires at .............. 2014-03-06 03:50:03
 
-*************************************
-*** wod_ap_hacking_terms_contains ***
-*************************************
-
-From date ................ 2013-04-13 00:00:00
-To date .................. 2013-04-15 00:00:00
-Request date ............. 2014-02-27 04:31:07
-Status ................... quoted
-Status message ........... Job quoted and awaiting customer acceptance.
-Percent complete ......... 0.00
-QUOTE:
- Est. Cost ............... $ -1.00
- Est. No. of Activities .. 67,273,000
- Est. Hours to Complete .. 3.0
- Est. # filesize (MB)..... 30,287.0
- Expires at .............. 2014-03-06 04:34:51
-
 *****************************************
 *** wod_state_of_union_terms_contains ***
 *****************************************
@@ -575,4 +558,21 @@ QUOTE:
  Est. Hours to Complete .. 6.0
  Est. # filesize (MB)..... 1,035.0
  Expires at .............. 2014-03-07 00:29:58
+
+*************************************
+*** wod_ap_hacking_terms_contains ***
+*************************************
+
+From date ................ 2013-04-13 00:00:00
+To date .................. 2013-04-15 00:00:00
+Request date ............. 2014-02-28 18:02:44
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 439,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 175.0
+ Expires at .............. 2014-03-07 18:05:45
 
