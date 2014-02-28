@@ -1,0 +1,19 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201202260000",
+  "toDate": "201204192359",
+  "rules": [
+  
+{"value":"#trayvon"},
+{"value":"#trayvonmartin"},
+{"value":"#zimmerman"},
+{"value":"#georgezimmerman"},
+{"value":"#iamtrayvon"},
+{"value":"#millionhoodiemarch"}
+
+  ],
+  "title":"validate_treyvon_martin_terms_contains",
+  "serviceUsername": "dvshah"
+}
