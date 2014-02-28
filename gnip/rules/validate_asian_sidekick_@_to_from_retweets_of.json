@@ -6,9 +6,12 @@
   "toDate": "201312172359",
   "rules": [
   
-{"value":"#NotYourAsianSidekick"}
+{"value":"@suey_park"},
+{"value":"to:suey_park"},
+{"value":"from:suey_park"},
+{"value":"retweets_of:suey_park"}
 
   ],
-  "title":"validate_asiansidekick_contains",
+  "title":"validate_asiansidekick_@_to_from_retweets_of",
   "serviceUsername": "dvshah"
 }
