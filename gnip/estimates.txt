@@ -474,3 +474,105 @@ QUOTE:
  Est. # filesize (MB)..... 627.0
  Expires at .............. 2014-03-06 04:53:59
 
+**********************************************
+*** validate_treyvon_martin_terms_contains ***
+**********************************************
+
+From date ................ 2012-02-26 00:00:00
+To date .................. 2012-04-19 23:59:00
+Request date ............. 2014-02-28 00:05:22
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,435,000
+ Est. Hours to Complete .. 44.0
+ Est. # filesize (MB)..... 667.0
+ Expires at .............. 2014-03-07 00:13:13
+
+**************************************
+*** validate_sandra_fluke_contains ***
+**************************************
+
+From date ................ 2012-02-16 00:00:00
+To date .................. 2012-03-10 23:59:00
+Request date ............. 2014-02-28 00:07:59
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 117,000
+ Est. Hours to Complete .. 20.0
+ Est. # filesize (MB)..... 62.0
+ Expires at .............. 2014-03-07 00:12:50
+
+****************************************************
+*** validate_asiansidekick_@_to_from_retweets_of ***
+****************************************************
+
+From date ................ 2013-12-15 00:00:00
+To date .................. 2013-12-17 23:59:00
+Request date ............. 2014-02-28 00:16:02
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 14,000
+ Est. Hours to Complete .. 6.0
+ Est. # filesize (MB)..... 9.0
+ Expires at .............. 2014-03-07 00:19:57
+
+***************************************
+*** validate_asiansidekick_contains ***
+***************************************
+
+From date ................ 2013-12-15 00:00:00
+To date .................. 2013-12-17 23:59:00
+Request date ............. 2014-02-28 00:22:03
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 57,000
+ Est. Hours to Complete .. 3.0
+ Est. # filesize (MB)..... 32.0
+ Expires at .............. 2014-03-07 00:26:05
+
+******************************************************
+*** validate_richard_sherman_@_to_from_retweets_of ***
+******************************************************
+
+From date ................ 2014-01-19 00:00:00
+To date .................. 2014-01-22 23:59:00
+Request date ............. 2014-02-28 00:22:16
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 390,000
+ Est. Hours to Complete .. 6.0
+ Est. # filesize (MB)..... 144.0
+ Expires at .............. 2014-03-07 00:26:18
+
+***********************************************
+*** validate_richard_sherman_terms_contains ***
+***********************************************
+
+From date ................ 2014-01-19 00:00:00
+To date .................. 2014-01-22 23:59:00
+Request date ............. 2014-02-28 00:25:37
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 2,259,000
+ Est. Hours to Complete .. 6.0
+ Est. # filesize (MB)..... 1,035.0
+ Expires at .............. 2014-03-07 00:29:58
+
