@@ -237,23 +237,6 @@ QUOTE:
  Expires at .............. 2014-03-06 02:25:17
 
 **************************************
-*** sc_monsanto_terms_top_contains ***
-**************************************
-
-From date ................ 2013-05-11 00:00:00
-To date .................. 2013-05-20 23:59:00
-Request date ............. 2014-02-27 03:10:32
-Status ................... quoted
-Status message ........... Job quoted and awaiting customer acceptance.
-Percent complete ......... 0.00
-QUOTE:
- Est. Cost ............... $ -1.00
- Est. No. of Activities .. 6,619,000
- Est. Hours to Complete .. 12.0
- Est. # filesize (MB)..... 3,119.0
- Expires at .............. 2014-03-06 03:13:13
-
-**************************************
 *** sc_doma_vra_terms_top_contains ***
 **************************************
 
@@ -575,4 +558,21 @@ QUOTE:
  Est. Hours to Complete .. 3.0
  Est. # filesize (MB)..... 175.0
  Expires at .............. 2014-03-07 18:05:45
+
+**************************************
+*** sc_monsanto_terms_top_contains ***
+**************************************
+
+From date ................ 2013-05-11 00:00:00
+To date .................. 2013-05-20 23:59:00
+Request date ............. 2014-02-28 21:45:58
+Status ................... quoted
+Status message ........... Job quoted and awaiting customer acceptance.
+Percent complete ......... 0.00
+QUOTE:
+ Est. Cost ............... $ -1.00
+ Est. No. of Activities .. 1,554,000
+ Est. Hours to Complete .. 12.0
+ Est. # filesize (MB)..... 730.0
+ Expires at .............. 2014-03-07 21:49:22
 
