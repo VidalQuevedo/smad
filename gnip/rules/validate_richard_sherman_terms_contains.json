@@ -1,0 +1,21 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201401190000",
+  "toDate": "201401222359",
+  "rules": [
+  
+{"value":"contains:\"Richard Sherman\""},
+{"value":"contains:\"Michael Crabtree\""},
+{"value":"contains:\"Sherman Interview\""},
+{"value":"contains:\"Erin Andrews\""},
+{"value":"contains:thug"},
+{"value":"contains:classless"},
+{"value":"contains:Sherman"},
+{"value":"contains:Crabtree"}
+
+  ],
+  "title":"validate_richard_sherman_terms_contains",
+  "serviceUsername": "dvshah"
+}
