@@ -1,0 +1,14 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201312150000",
+  "toDate": "201312172359",
+  "rules": [
+  
+{"value":"#notyouasiansidekick"}
+
+  ],
+  "title":"validate_asiansidekick_contains",
+  "serviceUsername": "dvshah"
+}
