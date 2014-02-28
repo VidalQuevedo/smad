@@ -1,0 +1,21 @@
+{
+  "publisher": "twitter",
+  "streamType": "track",
+  "dataFormat": "original",
+  "fromDate": "201202160000",
+  "toDate": "201203102359",
+  "rules": [
+  
+{"value":"#boycottrush"},
+{"value":"#stoprush"},
+{"value":"#flushrush"},
+{"value":"#standwithrush"},
+{"value":"#standwithsandra"},
+{"value":"#istandwithrush"},
+{"value":"#sandrafluke"},
+{"value":"#slutgate"}
+
+  ],
+  "title":"validate_sandra_fluke_contains",
+  "serviceUsername": "dvshah"
+}
