@@ -2,7 +2,7 @@
   "publisher": "twitter",
   "streamType": "track",
   "dataFormat": "original",
-  "fromDate": "201211200000",
+  "fromDate": "201212050000",
   "toDate": "201212222359",
   "rules": [
 {"value":"@GH_PARK"},
