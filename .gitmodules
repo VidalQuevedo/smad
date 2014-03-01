@@ -1,0 +1,3 @@
+[submodule "git/git_hist_utils"]
+	path = git/git_hist_utils
+	url = git@github.com:VidalQuevedo/Gnip-Python-Historical-Utilities.git
