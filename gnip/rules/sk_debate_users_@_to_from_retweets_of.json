@@ -2,8 +2,8 @@
   "publisher": "twitter",
   "streamType": "track",
   "dataFormat": "original",
-  "fromDate": "201211200000",
-  "toDate": "201212222359",
+  "fromDate": "201212080000",
+  "toDate": "201212192359",
   "rules": [
 {"value":"@GH_PARK"},
 {"value":"@4kinondrink"},
