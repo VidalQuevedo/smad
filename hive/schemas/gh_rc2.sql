@@ -1,15 +1,5 @@
-ADD JAR json-serde-1.1.7.jar;
 
-SET hive.exec.compress.output=true;
-SET hive.exec.dynamic.partition = true;
-SET hive.exec.dynamic.partition.mode = nonstrict;
-SET mapred.max.split.size=256000000;
-SET mapred.output.compression.type=BLOCK;
-SET mapred.output.compression.codec=org.apache.hadoop.io.compress.SnappyCodec;
-
-DROP TABLE gh_raw;
-
-CREATE EXTERNAL TABLE gh_raw (
+CREATE EXTERNAL TABLE gh_rc2 (
    coordinates struct <
       coordinates: array <double>,
       type: string>,
@@ -45,7 +35,6 @@ CREATE EXTERNAL TABLE gh_raw (
             expanded_url: string,
             url: string>>,
       user_mentions: array <struct <
-            id: int,
             name: string,
             screen_name: string>>>,
    geo struct <
@@ -107,7 +96,6 @@ CREATE EXTERNAL TABLE gh_raw (
                expanded_url: string,
                url: string>>,
          user_mentions: array <struct <
-               id: int,
                name: string,
                screen_name: string>>>,
       favorited: boolean,
@@ -149,7 +137,6 @@ CREATE EXTERNAL TABLE gh_raw (
          followers_count: int,
          friends_count: int,
          geo_enabled: boolean,
-         id: int,
          id_str: string,
          is_translator: boolean,
          lang: string,
@@ -188,7 +175,6 @@ CREATE EXTERNAL TABLE gh_raw (
       followers_count: int,
       friends_count: int,
       geo_enabled: boolean,
-      id: int,
       id_str: string,
       is_translator: boolean,
       lang: string,
@@ -216,9 +202,5 @@ CREATE EXTERNAL TABLE gh_raw (
       verified: boolean>
 )
 PARTITIONED BY (year INT, month INT, day INT)
-ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
-LOCATION '/user/ahanna/gh_raw';
-
-LOAD DATA INPATH '/user/ahanna/gh-tmp/part*' INTO TABLE `default.gh_raw` PARTITION (year = CURRYEAR, month = CURRMONTH, day = CURRDAY);
-INSERT OVERWRITE TABLE gh_rc PARTITION (year, month, day) SELECT * FROM `default.gh_raw`
-
+STORED AS rcfile
+LOCATION '/user/ahanna/gh_rc2';
