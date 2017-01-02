@@ -5,10 +5,10 @@ import json
 import re
 import sys
 
-dir = 'wisconsin_politics_to_rt'
+dir = 'wisconsin_politics_terms_top_contains'
 
 ##get the Gnip rules file
-jsonObj = json.loads(open('../../gnip/rules/wisconsin_politics_users_top_@_to_from_retweets_of.json', 'r').read())
+jsonObj = json.loads(open('../../gnip/rules/wisconsin_politics_terms_top_contains.json', 'r').read())
 
 ## Convert datetimes
 ## TK: Add something here which automatically rounds fromDate down and toDate by day
